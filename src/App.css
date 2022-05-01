@@ -1,0 +1,14 @@
+body {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+  font-size: 24px;
+}
+
