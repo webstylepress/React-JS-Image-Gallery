@@ -1,4 +1,4 @@
-# React JS Image Gallery With Modal
+# React JS Image Gallery With Full Screen Modal
 
 React JS gallery by WebStylePress, that takes array of images and shows images thumbnails. On click of images full screen gallery appears and you can navigate through available images.
 
